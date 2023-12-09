@@ -4,7 +4,7 @@
   </head>
           <body>
           LED Control:
-          <form method= "get" action="index.php">
+          <form method= "get" action="indexindex.html">
                   <input type="submit" value="ON" name="on">
                   <input type="submit" value="OFF" name="off">
           </form>
